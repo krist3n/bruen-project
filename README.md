@@ -1,5 +1,7 @@
 # Bruen
-Bruen Project for my Summer 2024 Data Analytics Internship at the Bronx Defenders (BxD). W/ Max Gilligan.
+Bruen Project for my Summer 2024 Data Analytics Internship at the Bronx Defenders (BxD). With Max Gilligan.
+
+Note that this is not the original repo (it was tied to our internal Githubs), nor is it a cloned repo. So there are (many) files missing.
 
 ## Description of Project
 
