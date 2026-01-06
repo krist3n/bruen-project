@@ -7,7 +7,7 @@ Note that this is not the original repo (it was tied to our internal Githubs), n
 
 Analysis of the impact of the New York State Rifle & Pistol Ass'n (NYSRPA II) v. Bruen Supreme Court Ruling (2022). During that case, the BxD wrote an amicus brief in support of the NYSRPA, on the grounds that the NYS Sullivan Law disproportionately criminalized Black and Hispanic and low-income residents of the Bronx. After Bruen, the BxD suspected that there was little change in the way criminal possession of weapon charges (CWP) were handled in New York State - just based on anecdotal evidence from their lawyers, who saw that judges threw out Bruen motions. We set out to quantitatively analyze whether this was true, comparing variables across region (NYS, NYC, and the Bronx) as well as across race (Black, white, All).
 
-Ultimately, we found that there was no significant changes between CWP charges pre- and post- Bruen ruling.
+Ultimately, we found that there was no significant changes between CWP charges pre- and post- Bruen ruling. This suggests that in practice, (a) the Bruen ruling's significance on CWP cases is overstated and (b) the racial disparities in CWP charges continue, even post-Bruen.
 
 ## Navigating Project
 
